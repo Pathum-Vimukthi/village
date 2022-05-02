@@ -1,0 +1,50 @@
+#navigation{
+	position:fixed;
+	width:240px;
+	height:580px;
+	margin:0;
+	margin-top:30px;
+	border-right:2px solid yellow;
+	font-weight:normal;
+	
+}
+
+#docPosition{
+	position:absolute;
+	padding:0 20px 20px; 
+	margin-top:0px;
+	margin-left:20%;
+	text-align:justify;
+}
+
+body{
+	background:url('background.jpg');
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	color:white;
+	background-attachment:fixed;
+}
+td{
+	padding:15px;
+	text-align:justify;
+}
+a:link {
+  color: white;
+}
+a:visited {
+  color: white;
+}
+h1{
+	color:#ff8c00;
+	text-align:center;
+	
+}
+#topic{
+	background-color:rgb(0, 0, 0, 0.5);
+}
+.active{
+	border: 3px solid #FFFFFF;
+	border-radius: 50px;
+}
+
+

@@ -1,0 +1,52 @@
+#navigation{
+	position:fixed;
+	width:240px;
+	height:580px;
+	margin:0;
+	margin-top:30px;
+	border-right:2px solid yellow;
+	font-weight:normal;
+}
+
+#docPosition{
+	position:absolute;
+	padding:0 20px 20px; 
+	margin-top:150px;
+	margin-left:28%;
+}
+#con{
+	position:absolute;
+	padding:0 20px 20px; 
+	margin-top:25px;
+	margin-left:20%;
+	color:white;
+	text-align:justify;
+}
+
+body{
+	background:url('background.jpg');
+	background-repeat:no-repeat;
+	background-size:100% 100;
+	background-attachment:fixed;
+	
+	
+}
+td{
+	padding:15px;
+}
+h1.solid{
+	color:white;
+	font-size:100pt;
+	font-family:Showcard Gothic;
+}
+table{
+	color:white;
+	text-align:left;
+}
+.hov{
+	background:black;
+}
+.active{
+	border: 3px solid #FFFFFF;
+	border-radius: 50px;
+}
